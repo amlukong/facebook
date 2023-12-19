@@ -1,2 +1,3 @@
 users can log in with email and password
 users can signup with name,email and password
+users can log in using mobile and OTP
